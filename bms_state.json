@@ -1,148 +1,68 @@
 {
   "shows": {
-    "CFBS|2422|20260402|NORMAL": {
+    "PVFF|45615|20260402|PICTURE  PERFECT": {
+      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
+      "time": "07:15 PM",
+      "date": "20260402",
+      "cat": "PICTURE  PERFECT",
+      "price": "920.00",
+      "status": "0"
+    },
+    "PVFF|45615|20260402|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
+      "time": "07:15 PM",
+      "date": "20260402",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "900.00",
+      "status": "1"
+    },
+    "PVFF|45615|20260402|PRIME ROWS": {
+      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
+      "time": "07:15 PM",
+      "date": "20260402",
+      "cat": "PRIME ROWS",
+      "price": "870.00",
+      "status": "1"
+    },
+    "PVFF|45615|20260402|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
+      "time": "07:15 PM",
+      "date": "20260402",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "840.00",
+      "status": "2"
+    },
+    "PVFF|45615|20260402|CLASSIC ROWS": {
+      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
+      "time": "07:15 PM",
+      "date": "20260402",
+      "cat": "CLASSIC ROWS",
+      "price": "720.00",
+      "status": "3"
+    },
+    "CFBS|2376|20260402|NORMAL": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "01:00 PM",
+      "time": "07:05 PM",
       "date": "20260402",
       "cat": "NORMAL",
-      "price": "210.00",
-      "status": "3"
-    },
-    "CFBS|2422|20260402|EXECUTIVE": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "01:00 PM",
-      "date": "20260402",
-      "cat": "EXECUTIVE",
-      "price": "230.00",
-      "status": "3"
-    },
-    "CFBS|2422|20260402|PREMIUM": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "01:00 PM",
-      "date": "20260402",
-      "cat": "PREMIUM",
-      "price": "270.00",
-      "status": "3"
-    },
-    "CFBS|2422|20260402|VIP": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "01:00 PM",
-      "date": "20260402",
-      "cat": "VIP",
-      "price": "440.00",
-      "status": "3"
-    },
-    "CFBS|2418|20260402|NORMAL": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "04:20 PM",
-      "date": "20260402",
-      "cat": "NORMAL",
-      "price": "210.00",
-      "status": "3"
-    },
-    "CFBS|2418|20260402|EXECUTIVE": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "04:20 PM",
-      "date": "20260402",
-      "cat": "EXECUTIVE",
-      "price": "230.00",
-      "status": "3"
-    },
-    "CFBS|2418|20260402|PREMIUM": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "04:20 PM",
-      "date": "20260402",
-      "cat": "PREMIUM",
-      "price": "270.00",
-      "status": "3"
-    },
-    "CFBS|2418|20260402|VIP": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "04:20 PM",
-      "date": "20260402",
-      "cat": "VIP",
-      "price": "440.00",
-      "status": "3"
-    },
-    "CFBS|2420|20260402|NORMAL": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "10:10 PM",
-      "date": "20260402",
-      "cat": "NORMAL",
-      "price": "300.00",
-      "status": "3"
-    },
-    "CFBS|2420|20260402|EXECUTIVE": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "10:10 PM",
-      "date": "20260402",
-      "cat": "EXECUTIVE",
-      "price": "390.00",
-      "status": "3"
-    },
-    "CFBS|2420|20260402|PREMIUM": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "10:10 PM",
-      "date": "20260402",
-      "cat": "PREMIUM",
-      "price": "440.00",
-      "status": "3"
-    },
-    "CFBS|2420|20260402|VIP": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "10:10 PM",
-      "date": "20260402",
-      "cat": "VIP",
       "price": "850.00",
       "status": "3"
     },
-    "FMFB|117452|20260402|PRIME ROWS": {
-      "venue": "INOX: Nexus, Whitefield",
-      "time": "02:20 PM",
+    "CFBS|2376|20260402|EXECUTIVE": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "07:05 PM",
       "date": "20260402",
-      "cat": "PRIME ROWS",
-      "price": "230.00",
-      "status": "3"
+      "cat": "EXECUTIVE",
+      "price": "900.00",
+      "status": "2"
     },
-    "FMFB|117452|20260402|CLASSIC PLUS ROWS": {
-      "venue": "INOX: Nexus, Whitefield",
-      "time": "02:20 PM",
+    "CFBS|2376|20260402|PREMIUM": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "07:05 PM",
       "date": "20260402",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "190.00",
-      "status": "3"
-    },
-    "FMFB|117452|20260402|CLASSIC ROWS": {
-      "venue": "INOX: Nexus, Whitefield",
-      "time": "02:20 PM",
-      "date": "20260402",
-      "cat": "CLASSIC ROWS",
-      "price": "170.00",
-      "status": "3"
-    },
-    "FMFB|117454|20260402|PRIME ROWS": {
-      "venue": "INOX: Nexus, Whitefield",
-      "time": "10:20 PM",
-      "date": "20260402",
-      "cat": "PRIME ROWS",
-      "price": "250.00",
-      "status": "3"
-    },
-    "FMFB|117454|20260402|CLASSIC PLUS ROWS": {
-      "venue": "INOX: Nexus, Whitefield",
-      "time": "10:20 PM",
-      "date": "20260402",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "210.00",
-      "status": "3"
-    },
-    "FMFB|117454|20260402|CLASSIC ROWS": {
-      "venue": "INOX: Nexus, Whitefield",
-      "time": "10:20 PM",
-      "date": "20260402",
-      "cat": "CLASSIC ROWS",
-      "price": "190.00",
-      "status": "3"
+      "cat": "PREMIUM",
+      "price": "950.00",
+      "status": "2"
     }
   },
   "dates": {
