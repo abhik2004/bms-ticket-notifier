@@ -1,153 +1,145 @@
 {
   "shows": {
-    "CFBS|2368|20260401|NORMAL": {
+    "CFBS|2422|20260402|NORMAL": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
       "time": "01:00 PM",
-      "date": "20260401",
+      "date": "20260402",
       "cat": "NORMAL",
       "price": "210.00",
       "status": "3"
     },
-    "CFBS|2368|20260401|EXECUTIVE": {
+    "CFBS|2422|20260402|EXECUTIVE": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
       "time": "01:00 PM",
-      "date": "20260401",
+      "date": "20260402",
       "cat": "EXECUTIVE",
       "price": "230.00",
       "status": "3"
     },
-    "CFBS|2368|20260401|PREMIUM": {
+    "CFBS|2422|20260402|PREMIUM": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
       "time": "01:00 PM",
-      "date": "20260401",
+      "date": "20260402",
       "cat": "PREMIUM",
       "price": "270.00",
       "status": "3"
     },
-    "CFBS|2368|20260401|VIP": {
+    "CFBS|2422|20260402|VIP": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
       "time": "01:00 PM",
-      "date": "20260401",
+      "date": "20260402",
       "cat": "VIP",
       "price": "440.00",
       "status": "3"
     },
-    "CFBS|2364|20260401|NORMAL": {
+    "CFBS|2418|20260402|NORMAL": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
       "time": "04:20 PM",
-      "date": "20260401",
+      "date": "20260402",
       "cat": "NORMAL",
       "price": "210.00",
       "status": "3"
     },
-    "CFBS|2364|20260401|EXECUTIVE": {
+    "CFBS|2418|20260402|EXECUTIVE": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
       "time": "04:20 PM",
-      "date": "20260401",
+      "date": "20260402",
       "cat": "EXECUTIVE",
       "price": "230.00",
       "status": "3"
     },
-    "CFBS|2364|20260401|PREMIUM": {
+    "CFBS|2418|20260402|PREMIUM": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
       "time": "04:20 PM",
-      "date": "20260401",
+      "date": "20260402",
       "cat": "PREMIUM",
       "price": "270.00",
       "status": "3"
     },
-    "CFBS|2364|20260401|VIP": {
+    "CFBS|2418|20260402|VIP": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
       "time": "04:20 PM",
-      "date": "20260401",
+      "date": "20260402",
       "cat": "VIP",
       "price": "440.00",
-      "status": "2"
-    },
-    "CFBS|2277|20260401|NORMAL": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "06:55 PM",
-      "date": "20260401",
-      "cat": "NORMAL",
-      "price": "275.00",
       "status": "3"
     },
-    "CFBS|2277|20260401|DOUBLE SOFA": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "06:55 PM",
-      "date": "20260401",
-      "cat": "DOUBLE SOFA",
-      "price": "450.00",
-      "status": "3"
-    },
-    "CFBS|2277|20260401|SINGLE SOFA": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "06:55 PM",
-      "date": "20260401",
-      "cat": "SINGLE SOFA",
-      "price": "400.00",
-      "status": "2"
-    },
-    "CFBS|2277|20260401|LOUNGER": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "06:55 PM",
-      "date": "20260401",
-      "cat": "LOUNGER",
-      "price": "430.00",
-      "status": "3"
-    },
-    "CFBS|2366|20260401|NORMAL": {
+    "CFBS|2420|20260402|NORMAL": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
       "time": "10:10 PM",
-      "date": "20260401",
+      "date": "20260402",
       "cat": "NORMAL",
       "price": "300.00",
       "status": "3"
     },
-    "CFBS|2366|20260401|EXECUTIVE": {
+    "CFBS|2420|20260402|EXECUTIVE": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
       "time": "10:10 PM",
-      "date": "20260401",
+      "date": "20260402",
       "cat": "EXECUTIVE",
       "price": "390.00",
       "status": "3"
     },
-    "CFBS|2366|20260401|PREMIUM": {
+    "CFBS|2420|20260402|PREMIUM": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
       "time": "10:10 PM",
-      "date": "20260401",
+      "date": "20260402",
       "cat": "PREMIUM",
       "price": "440.00",
       "status": "3"
     },
-    "CFBS|2366|20260401|VIP": {
+    "CFBS|2420|20260402|VIP": {
       "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
       "time": "10:10 PM",
-      "date": "20260401",
+      "date": "20260402",
       "cat": "VIP",
       "price": "850.00",
       "status": "3"
     },
-    "FMFB|117426|20260401|PRIME ROWS": {
+    "FMFB|117452|20260402|PRIME ROWS": {
+      "venue": "INOX: Nexus, Whitefield",
+      "time": "02:20 PM",
+      "date": "20260402",
+      "cat": "PRIME ROWS",
+      "price": "230.00",
+      "status": "3"
+    },
+    "FMFB|117452|20260402|CLASSIC PLUS ROWS": {
+      "venue": "INOX: Nexus, Whitefield",
+      "time": "02:20 PM",
+      "date": "20260402",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "190.00",
+      "status": "3"
+    },
+    "FMFB|117452|20260402|CLASSIC ROWS": {
+      "venue": "INOX: Nexus, Whitefield",
+      "time": "02:20 PM",
+      "date": "20260402",
+      "cat": "CLASSIC ROWS",
+      "price": "170.00",
+      "status": "3"
+    },
+    "FMFB|117454|20260402|PRIME ROWS": {
       "venue": "INOX: Nexus, Whitefield",
       "time": "10:20 PM",
-      "date": "20260401",
+      "date": "20260402",
       "cat": "PRIME ROWS",
       "price": "250.00",
       "status": "3"
     },
-    "FMFB|117426|20260401|CLASSIC PLUS ROWS": {
+    "FMFB|117454|20260402|CLASSIC PLUS ROWS": {
       "venue": "INOX: Nexus, Whitefield",
       "time": "10:20 PM",
-      "date": "20260401",
+      "date": "20260402",
       "cat": "CLASSIC PLUS ROWS",
       "price": "210.00",
       "status": "3"
     },
-    "FMFB|117426|20260401|CLASSIC ROWS": {
+    "FMFB|117454|20260402|CLASSIC ROWS": {
       "venue": "INOX: Nexus, Whitefield",
       "time": "10:20 PM",
-      "date": "20260401",
+      "date": "20260402",
       "cat": "CLASSIC ROWS",
       "price": "190.00",
       "status": "3"
@@ -155,8 +147,8 @@
   },
   "dates": {
     "20260331": "AVAILABLE",
-    "20260401": "BOOKABLE",
-    "20260402": "AVAILABLE",
+    "20260401": "AVAILABLE",
+    "20260402": "BOOKABLE",
     "20260403": "NOT_OPEN",
     "20260404": "NOT_OPEN",
     "20260405": "NOT_OPEN",
