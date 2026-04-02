@@ -9,7 +9,7 @@ on:
 jobs:
   check-tickets:
     runs-on: ubuntu-latest
-    timeout-minutes: 360
+    timeout-minutes: 5
     permissions:
       contents: write
 
@@ -34,12 +34,7 @@ jobs:
           BMS_DATES: ${{ vars.BMS_DATES }}
           BMS_THEATRE: ${{ vars.BMS_THEATRE }}
           BMS_TIME: ${{ vars.BMS_TIME }}
-        run: |
-          while true; do
-            echo "Running BMS checker..."
-            uv run main.py
-            sleep $((240 + RANDOM % 120))
-          done
+        run: uv run main.py
 
       - name: Commit updated state
         run: |
