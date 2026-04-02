@@ -1,4 +1,5 @@
 import time
+import random
 import subprocess
 
 INTERVAL = 480  # change to 60 if you want 1 min
