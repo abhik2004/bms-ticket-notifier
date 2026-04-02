@@ -9,7 +9,7 @@ on:
 jobs:
   check-tickets:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 360
     permissions:
       contents: write
 
@@ -25,7 +25,7 @@ jobs:
       - name: Install dependencies
         run: uv sync --frozen
 
-      - name: Run checker
+      - name: Run continously
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           RESEND_TO_EMAIL: ${{ secrets.RESEND_TO_EMAIL }}
@@ -34,7 +34,12 @@ jobs:
           BMS_DATES: ${{ vars.BMS_DATES }}
           BMS_THEATRE: ${{ vars.BMS_THEATRE }}
           BMS_TIME: ${{ vars.BMS_TIME }}
-        run: uv run main.py
+        run: |
+          while true; do
+            echo "Running BMS checker..."
+            uv run main.py
+            sleep $((240 + RANDOM % 120))
+          done
 
       - name: Commit updated state
         run: |
