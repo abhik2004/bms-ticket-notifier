@@ -2,7 +2,7 @@ import time
 import random
 import subprocess
 
-INTERVAL = 360  # change to 60 if you want 1 min
+INTERVAL = 300  # change to 60 if you want 1 min
 
 while True:
     start = time.time()
